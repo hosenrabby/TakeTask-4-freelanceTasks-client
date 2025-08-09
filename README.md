@@ -44,6 +44,6 @@ TakeTask Marketplace allows clients to create freelance task listings and freela
 - Node.js (Express)
 - MongoDB (MongoDB Atlas)
 
--- 📬 Contact
+--📬 Contact
 Reach me at: hosenrabby.dev@gmail.com
 
