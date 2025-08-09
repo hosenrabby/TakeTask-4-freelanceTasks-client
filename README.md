@@ -44,6 +44,22 @@ TakeTask Marketplace allows clients to create freelance task listings and freela
 - Node.js (Express)
 - MongoDB (MongoDB Atlas)
 
+🚀 Run Locally — Step by Step
+1. Clone the repository <br/>
+git clone [Clone](https://github.com/hosenrabby/TakeTask-4-freelanceTasks-client.git)<br/>
+cd TakeTask-Marketplace<br/>
+2. Setup the backend (server)<br/>
+cd server<br/>
+npm install<br/>
+cp .env.example .env<br/>
+- Add MongoDB URI and JWT secret to .env<br/>
+npm run dev<br/>
+Example .env file<br/>
+PORT=5000<br/>
+MONGODB_URI=mongodb+srv://<user>:<pass>@cluster.mongodb.net/taketask<br/>
+JWT_SECRET=your_jwt_secret<br/>
+CLIENT_URL=http://localhost:3000<br/>
+npm run dev<br/>
 📬 Contact
 Reach me at: hosenrabby.dev@gmail.com
 
