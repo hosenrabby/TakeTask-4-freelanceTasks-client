@@ -1,13 +1,18 @@
 # 🧑‍💻 TakeTask – Freelance Task Marketplace
 
-TakeTask is a modern freelance task marketplace built with React and Firebase. It allows clients to post tasks and freelancers to browse, bid, and get hired — all with a clean, responsive UI.
+A modern freelance task platform where clients post tasks and freelancers browse, apply, and manage projects — connecting talent with opportunities in a streamlined way.
 
+🔎 Project Overview
+TakeTask Marketplace allows clients to create freelance task listings and freelancers to apply and manage their ongoing tasks. It features a secure authentication system, dynamic filtering for finding tasks, and a responsive interface for smooth interactions across devices.
+
+🖼 Screenshot
+![Review Tracker — screenshot](./public/Screenshot.png)
 ---
 ## 🚀 Live Demo
 
-> 🔗 [Live Site](https://take-task-marketplace-77c6d4.netlify.app/)
+[🌐 Live Website](https://take-task-marketplace-77c6d4.netlify.app/)
 
-## 📚 Features
+## ✨ Core Features
 
 - 👤 User Authentication (Email/Password, Google, GitHub)
 - 📝 Post Tasks with Categories, Budget, and Deadlines
@@ -39,5 +44,6 @@ TakeTask is a modern freelance task marketplace built with React and Firebase. I
 - Node.js (Express)
 - MongoDB (MongoDB Atlas)
 
----
+-- 📬 Contact
+Reach me at: hosenrabby.dev@gmail.com
 
